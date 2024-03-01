@@ -2,7 +2,7 @@
 
 ### Leetcode Stats
 
-[![](https://leetcode-badge.haozibi.dev/v1cn/otto-83.svg?logo=leetcode)](https://leetcode.cn/u/sdfhlj/) 
+[![](https://leetcode-badge.haozibi.dev/v1cn/sdfhlj.svg?logo=leetcode)](https://leetcode.cn/u/sdfhlj/) 
 [![](https://leetcode-badge.haozibi.dev/v1cn/ranking/sdfhlj.svg?logo=leetcode)](https://leetcode.cn/u/sdfhlj/) 
 [![](https://leetcode-badge.haozibi.dev/v1cn/solved/sdfhlj.svg?logo=leetcode)](https://leetcode.cn/u/sdfhlj/) 
 [![](https://leetcode-badge.haozibi.dev/v1cn/solved-rate/sdfhlj.svg?logo=leetcode)](https://leetcode.cn/u/sdfhlj/) 
