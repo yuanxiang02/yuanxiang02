@@ -24,20 +24,9 @@ Listed in the [Hugging Face official benchmark directory](https://huggingface.co
 
 ## Selected publications
 
-- **VDE Bench: Evaluating The Capability of Image Editing Models to Modify Visual Documents** — arXiv preprint.  
-  A bilingual benchmark for instruction-guided editing of visual documents.  
-  [arXiv](https://arxiv.org/abs/2602.00122) · [GitHub](https://github.com/zion-zion-zion/VDE-Bench) · [HF](https://huggingface.co/datasets/hongzhuyi/VDEBench)
-
 - **Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models** — CVPR 2026 · co-first author, second-listed.  
   Diagnosing single-turn consistency and multi-turn coordination in instruction-based image editing.  
   [arXiv](https://arxiv.org/abs/2603.16944) · [GitHub](https://github.com/Young-2000/OmniIIEBench) · [HF](https://huggingface.co/datasets/YamJoy/OmniIIEBench)
-
-- **MultiInteract-Bench: Benchmarking LVLMs on Multi-Step Interactive Webpage Generation from Visual Sequences** — AAAI submission.  
-  A benchmark for multi-step interactive webpage generation from visual sequences.  
-  [GitHub](https://github.com/zion-zion-zion/MultiInteract-Bench) · [HF](https://huggingface.co/datasets/zionzionzion/MultiInteract-Bench)
-
-- **Delta-JEPA: Transition-Geometry Regularization for Action-Sensitive World Models** — AAAI submission.  
-  Latent-difference action decoding for action-sensitive, reconstruction-free world models.
 
 ## Open-source tooling
 
