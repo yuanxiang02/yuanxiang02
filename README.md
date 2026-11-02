@@ -20,11 +20,6 @@ Included in the [Hugging Face official benchmark directory](https://huggingface.
 
 ## Accepted publications
 
-- **Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models**  
-  **CVPR 2026** · Co-first author, second-listed.  
-  Evaluating consistency across single-turn and multi-turn image editing.  
-  [Paper](https://arxiv.org/abs/2603.16944) · [Code](https://github.com/Young-2000/OmniIIEBench) · [Dataset](https://huggingface.co/datasets/YamJoy/OmniIIEBench)
-
 - **Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss**  
   **AAAI 2026 · Poster** · Co-first author.  
   Dynamic graph learning and masked reconstruction for clustering with missing views.  
@@ -44,6 +39,8 @@ Included in the [Hugging Face official benchmark directory](https://huggingface.
 
 | Project | Focus | Resources |
 | :--- | :--- | :--- |
+| **CadFlow** | CAD infrastructure for agents, with programmable geometry, structured feedback, and CAD export. | [GitHub](https://github.com/yhz5613813/CadFlow) |
+| **VDEBench** | A bilingual benchmark with 3,506 instruction-guided document-image editing examples. | [Paper](https://arxiv.org/abs/2602.00122) · [Code](https://github.com/zion-zion-zion/VDE-Bench) · [Dataset](https://huggingface.co/datasets/hongzhuyi/VDEBench) |
 | **MultiInteract-Bench** | Benchmarking multi-step interactive webpage generation from visual sequences. | [Code](https://github.com/zion-zion-zion/MultiInteract-Bench) · [Dataset](https://huggingface.co/datasets/zionzionzion/MultiInteract-Bench) |
 | **Model Iteration Harness** | Reproducible model improvement with coding agents, evaluation contracts, and persistent experiment evidence. **Design stage.** | [GitHub](https://github.com/yuanxiang02/model-iteration-harness) |
 
@@ -57,7 +54,6 @@ Included in the [Hugging Face official benchmark directory](https://huggingface.
 <details>
 <summary>Earlier updates</summary>
 
-- **2026.03** — [Omni IIE Bench](https://arxiv.org/abs/2603.16944) became available on arXiv. [Code & data](https://github.com/Young-2000/OmniIIEBench).
 - **2026.02** — [MultiInteract-Bench](https://github.com/zion-zion-zion/MultiInteract-Bench) on GitHub: a benchmark for interactive webpage generation. [Dataset](https://huggingface.co/datasets/zionzionzion/MultiInteract-Bench).
 - **2025.11** — [DGIMVCM](https://arxiv.org/abs/2511.11181) became available on arXiv. [Code](https://github.com/PaddiHunter/DGIMVCM).
 - **2025.08** — [FAIRGAMER](https://arxiv.org/abs/2508.17825) became available on arXiv. [Code](https://github.com/BingkangShi/FairGamer).
