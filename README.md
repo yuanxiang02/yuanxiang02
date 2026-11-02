@@ -36,7 +36,7 @@ Listed in the [Hugging Face official benchmark directory](https://huggingface.co
   A benchmark for multi-step interactive webpage generation from visual sequences.  
   [GitHub](https://github.com/zion-zion-zion/MultiInteract-Bench) · [HF](https://huggingface.co/datasets/zionzionzion/MultiInteract-Bench)
 
-- **Delta-JEPA: Transition-Geometry Regularization for Action-Sensitive World Models** — AAAI resubmission.  
+- **Delta-JEPA: Transition-Geometry Regularization for Action-Sensitive World Models** — AAAI submission.  
   Latent-difference action decoding for action-sensitive, reconstruction-free world models.
 
 ## Open-source tooling
